@@ -1,0 +1,22 @@
+{
+  "name": "dorokhovana-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "echo hello",
+    "build": "mkdir build",
+    "delete": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/DorokhovaNA-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/DorokhovaNA-main/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/DorokhovaNA-main#readme"
+}
